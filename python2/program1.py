@@ -1,4 +1,3 @@
-```python
 print("Hello World")
 
-```
+
